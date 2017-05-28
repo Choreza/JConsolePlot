@@ -24,6 +24,14 @@ For example, if you write:
      
 you will get a graphic like this.
 
+If you are using Eclipse, you must Run JConsolePlot once, and then go to:
+
+     Run > Run Configurations > JConsolePlot
+     
+and then, select `Arguments`, and go to the window `Program Arguments` like follows:
+![Run Configurations](https://github.com/Choreza/JConsolePlot/blob/master/src/img/runningprogram.png)
+There you can write the orders to execute.
+
 #### 2.1.1 Bar Plot
 Draw bar graphics using this option, the bars will appear in the order you give the information. If the lenght of the name of a bar is greater than 3, the word will be abbreviated. You must give the information as a tuple *(x,y)* where *x* could be a random string, and *y* is necesarilly an integer representative of a frequency.
 
