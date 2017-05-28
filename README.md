@@ -24,7 +24,7 @@ For example, if you write:
      
 you will get a graphic like this.
 
-If you are using Eclipse, you must Run JConsolePlot once, and then go to:
+If you are using Eclipse, you must run JConsolePlot once, and then go to:
 
      Run > Run Configurations > JConsolePlot
      
