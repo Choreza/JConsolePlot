@@ -2,4 +2,4 @@
 
 ## 1. Go to project properties
 Once you create your Eclipse project, right click it in your menu, and select the option `Properties`, as follow:
-![Properties](src/img/buildpath-1.png)
+![Properties](https://github.com/Choreza/JConsolePlot/blob/master/src/img/buildpath-1.png)
