@@ -7,7 +7,7 @@ JConsolePlot is an application to draw directly in the command line different ki
 Create a new folder for JConsolePlot and download the files of the repository inside it.
 
 ### 1.2 Open eclipse and set the build-path 
-This aplication uses external libraries, so you must manually set the classpath in your editor, click here to know how to do this in Eclipse.
+This aplication uses external libraries, so you must manually set the classpath in your editor, click [here](src/guide/buildpath.md) to know how to do this in Eclipse.
 
 ## 2 Start Guide.
 
