@@ -26,8 +26,10 @@ you will get a graphic like this.
 
 #### 2.1.1 Bar Plot
 Draw bar graphics using this option, the bars will appear in the order you give the information. If the lenght of the name of a bar is greater than 3, the word will be abbreviated. You must give the information as a tuple *(x,y)* where *x* could be a random string, and *y* is necesarilly an integer representative of a frequency.
+
 ![BarPlot](https://github.com/Choreza/JConsolePlot/blob/master/src/img/barplot.png)
 
 #### 2.1.2 Scatter Plot
 Draw scatter graphics using this option, the points will be distributed in the graphic, setting the minimum value of the axes as the minimum value of the coordinates given as input. You must give the information as a tuple *(x,y)* where *x* and *y* are both coordinates of a cartesian plane.
+
 ![ScatterPlot](https://github.com/Choreza/JConsolePlot/blob/master/src/img/scatterplot-ex.png)
