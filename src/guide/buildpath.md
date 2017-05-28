@@ -9,5 +9,7 @@ Left click on `Java Build Path` and click `Add JARs`:
 ![Add JARs](https://github.com/Choreza/JConsolePlot/blob/master/src/img/buildpath-2.png)
 
 ## 3. Select the JARs you need
-Search for the directory of the JARs you need, and select them. When you're ready, click `Ok`.
+Search for the directory of the JARs you need, and select them. When you're ready, click `Ok` twice.
 ![Searching JARs](https://github.com/Choreza/JConsolePlot/blob/master/src/img/buildpath-3.png)
+
+Congratulations, you are free to use the added libraries!
