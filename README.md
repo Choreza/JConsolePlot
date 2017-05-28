@@ -1,7 +1,7 @@
 # JConsolePlot
 JConsolePlot is an application to draw directly in the command line different kind of graphics. You can easily draw a lot bar graphics or scatter graphics by console, using information from a file or just giving it in the command line.
 ![ScatterPlot](https://github.com/Choreza/JConsolePlot/blob/master/src/img/scatterplot-ex.png)
-![BarPlot](https://github.com/Choreza/JConsolePlot/blob/master/src/img/barplot-ex.png)
+![BarPlot](https://github.com/Choreza/JConsolePlot/blob/master/src/img/barplot.png)
 
 ## 1 Preparatives.
 
