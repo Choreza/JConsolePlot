@@ -13,7 +13,7 @@ This aplication uses external libraries, so you must manually set the classpath 
 ## 2 Start Guide.
 
 ### 2.1 Options to draw.
-First of all, to draw some graphic you must choose a kind of graphic, it could be an **BarPlot** or a **ScatterPlot**, and give some input to the application, it could be from a file using the option **-F** followed by the path to the file, or directly by the command line using the option **-P** followed the different tuples separated by **,** (ex: *3,4 1,7 12,4*). You can also set the maximum value of the axes by using options **-x** and **-y** (note: -x only works in ScatterPlot, has no sense to set the maximum value of the horizontal axe in a bar graphic).
+First of all, to draw some graphic you must choose a kind of graphic, it could be a **BarPlot** or a **ScatterPlot**, and give some input to the application, it could be from a file using the option **-F** followed by the path to the file, or directly by the command line using the option **-P** followed the different tuples separated by **,** (ex: *3,4 1,7 12,4*). You can also set the maximum value of the axes by using options **-x** and **-y** (note: -x only works in ScatterPlot, has no sense to set the maximum value of the horizontal axe in a bar graphic).
 
 For example, if you write:
 
